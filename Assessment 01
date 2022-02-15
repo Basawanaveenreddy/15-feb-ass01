@@ -1,0 +1,17 @@
+a=int(raw_input())
+b=int(raw_inpit())
+Print(a+b)
+Print(a-b)
+Print(a*b)
+
+
+
+Output
+Enter values
+a=3
+b=2
+
+5
+1
+6
+
